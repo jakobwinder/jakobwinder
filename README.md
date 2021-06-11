@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jakobwinder
-- 👀 I’m interested in sound design for games
+- 👀 I’m interested in Sound Design for Games
 - 🌱 I’m currently learning Unity and C#
 
 <!---
