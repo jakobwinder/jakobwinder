@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jakobwinder
-- 👀 I’m interested in Python and Java Automation, building cool sound stuffs and being better at discrete maths
-- 🌱 I’m currently learning Python, Java, Discrete Maths
+- 🌱 I’m currently a masters student at @upenn where I am strengthening my foundation in software engeering
 
 <!---
 jakobwinder/jakobwinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
