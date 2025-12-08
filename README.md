@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jakobwinder
-- 🌱 I’m currently a masters student at @upenn where I am strengthening my foundation in software engeering
+- 🌱 I’m currently a masters student at @upenn where I am strengthening my foundation in software engineering
 
 <!---
 jakobwinder/jakobwinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
